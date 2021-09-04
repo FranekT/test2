@@ -42,7 +42,21 @@ input.onButtonPressed(Button.A, function () {
         . . # . .
         . . # # #
         `)
+    basic.showLeds(`
+        . # # # #
+        . # . . .
+        . # # # .
+        . # . . .
+        . # # # #
+        `)
     basic.showString("E")
+    basic.showLeds(`
+        # # # . .
+        . . . . .
+        # # . . .
+        . . . . .
+        # # # . .
+        `)
 })
 basic.forever(function () {
 	

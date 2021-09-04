@@ -34,4 +34,16 @@
         . . # # # 
         . . # . . 
         . . # # #
-        `</field><next><block type="device_print_message" id="J|Cg6#-oWv@bz,%#=],-"><value name="text"><shadow type="text" id=",^4yGeFl2pEGq*UqaDXT"><field name="TEXT">E</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
+        `</field><next><block type="device_show_leds" id="j-yw=Ew:}gq.r,iU3?{R"><field name="LEDS">`
+        . # # # # 
+        . # . . . 
+        . # # # . 
+        . # . . . 
+        . # # # #
+        `</field><next><block type="device_print_message" id="J|Cg6#-oWv@bz,%#=],-"><value name="text"><shadow type="text" id=",^4yGeFl2pEGq*UqaDXT"><field name="TEXT">E</field></shadow></value><next><block type="device_show_leds" id="1GG8haBavp]*](,{vt=k"><field name="LEDS">`
+        # # # . . 
+        . . . . . 
+        # # . . . 
+        . . . . . 
+        # # # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
